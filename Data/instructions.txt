@@ -4,4 +4,7 @@ This dataset consists of train data : 'train.csv' and test data : 'test.csv'.
 Besides these, there are two more files to work on : 'item_data.csv' & 'view_log.csv'.
 
 
+You can get the 'view_log.csv' file by just extracting the view_log.rar file.
+
+
 There is a sample submission file where the predictions are to be submitted in the format.
