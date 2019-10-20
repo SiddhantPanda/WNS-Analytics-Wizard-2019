@@ -1,3 +1,6 @@
+Competition link : https://datahack.analyticsvidhya.com/contest/wns-analytics-wizard-2019/
+Visit the link to find the problem statement and solution checker.
+
 This dataset consists of train data : 'train.csv' and test data : 'test.csv'.
 
 
